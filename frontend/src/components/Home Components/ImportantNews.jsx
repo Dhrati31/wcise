@@ -3,7 +3,7 @@ import React from 'react'
 function ImportantNews() {
   return (
     <div className='ml-4 mr-4 mt-6 flex flex-col lg:flex-row gap-5 lg:items-center lg:justify-center'>
-      <div className='flex flex-col border-4 border-[#1d3b58] bg-[#f5fbf9] text-center text-3xl pb-2 text-[#1d3b58] font-bold w-1/5'>
+      <div className='flex flex-col border-4 border-[#1d3b58] bg-[#f5fbf9] text-center text-3xl pb-2 text-[#1d3b58] font-bold lg:w-1/5'>
         Important News
       </div>
       <div>
