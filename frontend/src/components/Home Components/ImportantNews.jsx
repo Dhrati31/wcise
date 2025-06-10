@@ -10,17 +10,17 @@ function ImportantNews() {
         <div>
           <h3 className='mt-6 text-center text-[#1d3b58] text-2xl font-bold mb-4'>ALL ACCEPTED PAPERS WILL BE PUBLISHED IN ONE OF THE FOLLOWING INDEX JOURNALS:</h3>
           <div className='border-2 border-[#1d3b58] p-4 rounded shadow-2xl mb-4'>
-            <h3>OPTION-1 SCOPUS Indexed Book Chapter</h3>
+            <h3 className='text-lg font-bold'>OPTION-1 SCOPUS Indexed Book Chapter</h3>
             <div>Awaiting approval, Scrivener Publishing, Wiley (Indexed in SCOPUS).</div>
           </div>
 
           <div className='border-2 border-[#1d3b58] p-4 rounded shadow-2xl mb-4'>
-            <h3>OPTION-2 SCOPUS Indexed Journal</h3>
+            <h3 className='text-lg font-bold'>OPTION-2 SCOPUS Indexed Journal</h3>
             <div>Updated Soon</div>
           </div>
 
           <div className='border-2 border-[#1d3b58] p-4 rounded shadow-2xl mb-4'>
-            <h3>OPTION-3 NON SCOPUS Indexed JOURNALS</h3>
+            <h3 className='text-lg font-bold'>OPTION-3 NON SCOPUS Indexed JOURNALS</h3>
             <div>International Journal of Innovations in Management, Science and Engineering (Crossref, Google Scholar & Research Gate).
               https://ijimse.co.in/
             </div>
